@@ -52,12 +52,12 @@ Don't want to build it from source? You can download the ready-to-use Windows In
 
 This project was developed collaboratively by our awesome team:
 
-| Name | Student ID (NIM) |
-| :--- | :--- |
-| **Anisa Aulia** | 3.34.25.1.04 |
-| **Jizdan Yuflikh R** | 3.34.25.1.12 |
-| **Kafka Nafisa** | 3.34.25.1.13 |
-| **Nazriel Farras Khairiya P S** | 3.34.25.1.20 |
+| Name | Student ID (NIM) | GitHub Profile |
+| :--- | :--- | :--- |
+| **Anisa Aulia** | 3.34.25.1.04 | [@anisaaulia](https://github.com/anisaaulia) |
+| **Jizdan Yuflikh R** | 3.34.25.1.12 | [@UnnamedPeople-Chin](https://github.com/UnnamedPeople-Chin) |
+| **Kafka Nafisa** | 3.34.25.1.13 | [@kfknfs](https://github.com/kfknfs) |
+| **Nazriel Farras Khairiya P S** | 3.34.25.1.20 | [@nzrlfrrs](https://github.com/nzrlfrrs) |
 
 ## ℹ️ Project Information
 
